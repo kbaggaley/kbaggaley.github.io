@@ -1,0 +1,39 @@
+
+
+body {
+width: 1000px;
+margin: 20px auto;
+font-family: verdana, sans-serif;
+color: #555753;
+}
+
+.chart-container {
+	margin-top: 46px;	
+}
+
+.chart-copy {
+width:400px;
+float:left;
+margin-right:20px;
+}
+
+.image-container {
+	width:550px;
+	float:left;
+}
+
+.image-container2 {
+	width:550px;
+	float:left;
+	margin-top: 150px;
+}
+
+.image-container3 {
+	width:550px;
+	float:left;
+	margin-top: 30px;
+}
+
+h2 {
+	margin-top:0;
+}
